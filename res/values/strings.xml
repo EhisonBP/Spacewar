@@ -9,5 +9,6 @@
     <string name="AcercaDe">Acerca de</string>
     <string name="Salir">Salir</string>
     <string name="tituloAplicacion">Asteroides</string>
+    <string name="Resumen">Este es mi primer juego en el mundo de Android</string>
 
 </resources>

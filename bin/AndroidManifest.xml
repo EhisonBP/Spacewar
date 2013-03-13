@@ -22,7 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="AcerdaDe" android:label="Acerca de ..." android:theme="@android:style/Theme.Dialog"></activity>
+        <activity
+            android:theme="@style/MyStyle" 
+            android:name="AcerdaDe"
+            android:label="Acerca de ...">
+        </activity>
+        <activity android:name="Preferencias"></activity>
     </application>
 
 </manifest>

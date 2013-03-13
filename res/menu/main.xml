@@ -1,8 +1,5 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
-
-    <item
-        android:id="@+id/action_settings"
-        android:orderInCategory="100"
-        android:title="@string/action_settings"/>
+    <item android:id="@+id/config" android:title="@string/Configurar"></item>
+    <item android:id="@+id/acercaDe" android:title="@string/AcercaDe"></item>
 
 </menu>
